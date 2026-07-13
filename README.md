@@ -1,4 +1,4 @@
-# 🧵 Fabric Marketplace with AI-Based Fabric Defect Detection
+# 🧵 Cloth Defect Detection
 
 A Flask-based web application that integrates **Deep Learning (CNN)** and **Computer Vision** to automatically detect fabric defects from images and videos. The system provides a secure online marketplace where **Buyers**, **Sellers**, and **Administrators** can manage fabric products while using AI for quality inspection.
 

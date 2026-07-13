@@ -224,9 +224,7 @@ Store Data in MySQL
 
 **Konjeti Venkata Sai Manikanta**
 
-📧 Email: **konjetivenkatasaimanikanta@gmail.com**
 
-💻 GitHub: **https://github.com/Mani-KVS**
 
 ---
 
